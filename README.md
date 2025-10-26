@@ -1,7 +1,5 @@
 # Arrays And Strings In C ++
-## Name: Maitraiyee Vashistha
-## PRN: 24070123057
-## Division: ENTC-A3
+
 ## Title: Basic operations of Strings And Arrays in C ++
 ---
 ## Aim :
